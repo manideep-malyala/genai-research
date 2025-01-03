@@ -2,7 +2,7 @@
 
 Welcome to the Generative AI Research Papers Repository. This repository serves as a curated collection of influential and emerging research in the field of Generative AI. 
 
-The table below organizes research papers into three key columns:
+The table below organizes research papers into four key columns:
 
 1. **Topic**: The specific area or subdomain of Generative AI.
 2. **Paper Title**: The title of the research paper, linked to the source or publication.
